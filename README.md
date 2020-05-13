@@ -1,5 +1,6 @@
 ![PWA and mobile hybrid app with Vue.js, Vuetify ](screenshots/pwa.jpg)
 
+
 ## Mobile Responsive Design
 - Vue + Vue Router + Vuex + Axios.
 - Material Design Style - [Vuetify](https://vuetifyjs.com/)
@@ -9,6 +10,7 @@
 - Axios Mock with `axios-mock-adapter`
 - Configurable side menu with json
 - i18n with `vue-i18n`
+
 
 ## Config
 1. Copy `src/config.sample.js` to `src/config.js`
