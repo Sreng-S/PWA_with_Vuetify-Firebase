@@ -2,6 +2,7 @@
 
 
 ## Mobile Responsive Design
+
 - Vue + Vue Router + Vuex + Axios.
 - Material Design Style - [Vuetify](https://vuetifyjs.com/)
 - Data Grid with server side `sort`,`search`,`pagination` and json config.
@@ -12,6 +13,7 @@
 
 
 ## Config
+
 1. Copy `src/config.sample.js` to `src/config.js`
 1. `npm install`
 1. `npm run dev`
