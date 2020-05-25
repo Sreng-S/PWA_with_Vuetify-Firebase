@@ -1,7 +1,7 @@
 {
   "name": "vue-adminify",
   "version": "1.0.0",
-  "description": "An Admin dashboard based on Vuetify",
+  "description": "",
   "author": "Johnny.Wu <wu-xuesong@qq.com>",
   "private": true,
   "scripts": {
