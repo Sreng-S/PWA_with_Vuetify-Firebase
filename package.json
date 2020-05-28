@@ -1,7 +1,7 @@
 {
   "name": "vue-pwa",
   "version": "1.0.0",
-  "description": "",
+  "description": "pwa - vue, vuetify, firebase",
   "author": "sreng-s",
   "private": true,
   "scripts": {
