@@ -70,7 +70,7 @@
     "vue-style-loader": "^3.0.1",
     "vue-template-compiler": "^2.3.3",
     "vuetify": "^2.2.30",
-    "vuex": "^2.3.1",
+    "vuex": "^2.3.5",
     "webpack": "^2.6.1",
     "webpack-bundle-analyzer": "^2.2.1",
     "webpack-dev-middleware": "^1.10.0",
