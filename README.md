@@ -1,4 +1,4 @@
-![PWA and mobile hybrid app with Vue.js, Vuetify ](screenshots/pwa.jpg)
+![Progressive Web Application with Vue.js, Vuetify ](screenshots/pwa.jpg)
 
 
 ## Mobile Responsive Design
