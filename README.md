@@ -1,5 +1,6 @@
 ![Progressive Web Application with Vue.js, Vuetify ](screenshots/pwa.jpg)
 
+# Progressive Web Application with Vue.js, Vuetify
 
 ## Mobile Responsive Design
 
