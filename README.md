@@ -11,6 +11,7 @@
 - Built in `localStorage` proxy for any data types.
 - Axios Mock with `axios-mock-adapter`
 - i18n with `vue-i18n`
+- micro front-end
 
 
 ## Config
